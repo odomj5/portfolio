@@ -3794,5 +3794,7 @@ input, select, textarea {
 
 #header > ul > li {
 	display: inline;
+	padding: 0 .5em;
+
 	
 }
