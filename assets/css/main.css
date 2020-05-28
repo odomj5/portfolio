@@ -3783,3 +3783,16 @@ input, select, textarea {
 			}
 
 		}
+
+#header > ul {
+	display: flex;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+	
+}
+
+#header > ul > li {
+	display: inline;
+	
+}
