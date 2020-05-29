@@ -3863,3 +3863,22 @@ input, select, textarea {
 #contact-chat > h3 {
 	color: black;
 }
+
+#contact-quote {
+	margin-top: 2em;
+}
+
+
+#footer > ul {
+	display: flex;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	
+}
+
+#footer > ul > li {
+	display: inline;
+	padding: 0 .5em;
+}
