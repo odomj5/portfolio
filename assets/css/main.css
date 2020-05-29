@@ -3806,3 +3806,27 @@ input, select, textarea {
 	border-radius: 8px;
 	margin: 0 0 1em 0;
 }
+
+.features > li > .button {
+	margin: 1em;
+}
+
+.skills {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	list-style: none;
+
+}
+
+.skills > li {
+	text-align: center;
+	flex: 1;
+	padding: 1.5em;
+	width: 25%;
+}
+
+.skills img {
+	width: 8em;
+	
+}
