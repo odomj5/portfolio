@@ -3830,3 +3830,36 @@ input, select, textarea {
 	width: 8em;
 	
 }
+
+#contact {
+	display: flex;
+	
+}
+
+#contact section {
+	border-radius: 8px;
+	padding: 2em;
+}
+
+#contact > * {
+	width: calc(50% - 2em);
+	margin-left: 2em;
+}
+
+#contact-info {
+	/* background-color: #EBF9B8; */
+	background-color: #A7E9A0;
+}
+
+#contact-info > dt {
+	color: white;
+}
+
+#contact-chat {
+	background-color: #6888AF;
+	color: black;
+}
+
+#contact-chat > h3 {
+	color: black;
+}
